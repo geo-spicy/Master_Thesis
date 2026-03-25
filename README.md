@@ -1,6 +1,6 @@
 # Soil Temperature Analysis Scripts
 
-This repository contains the scripts used in my Master's thesis for analyzing soil temperature (ST) from multiple products at surface and root-zone layers using in-situ networks from the 
+This repository contains all the main Python scripts and analysis used in my Master's thesis for analyzing soil temperature (ST) from multiple products at surface and root-zone layers using in-situ networks from the 
 International Soil Moisture Network (ISMN). **Data is not included**, only the code.
 
 ---
@@ -19,8 +19,8 @@ root/
 │ ├── merra/
 └── Excel_tables/
 
-# Surface foler, rootzone_layer
+## Surface foler, rootzone_layer
 These folders contain multiple subfolders for each product that were used at the surface and root-zone layers. Each subfolder contains data downloading, and exploration, combining, and pixel mean Python scripts and their analysis results.
 
-# Excel_tables
+## Excel_tables
 This folder contains all error metrics tables for each ST product for each in-situ ST network at the surface and root-zone layers, both at native resolution and temporal harmonized (4_timestamps)
