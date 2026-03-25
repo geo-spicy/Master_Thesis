@@ -1,7 +1,6 @@
 # Soil Temperature Analysis Scripts
 
-This repository contains all the main Python scripts and analysis used in my Master's thesis for analyzing soil temperature (ST) from multiple products at surface and root-zone layers using in-situ networks from the 
-International Soil Moisture Network (ISMN). **Data is not included**, only the code.
+This repository contains all the main Python scripts and analysis used in my Master's thesis for evaluation of multiple Soil temperature (ST) products at surface and root-zone layers using in-situ networks from the International Soil Moisture Network (ISMN). **Data is not included**, only the code.
 
 ---
 
