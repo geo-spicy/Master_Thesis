@@ -1,0 +1,7 @@
+land_cover_group,bias,ubrmsd,R,N
+Agriculture,-1.85,4.45,0.847,245800
+Forest,3.06,4.57,0.771,292450
+Grassland,0.53,4.22,0.854,345041
+Others,-1.46,5.32,0.784,51245
+Savanna,-0.56,3.81,0.842,23543
+Shrubland,-2.86,6.37,0.773,105806
